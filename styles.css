@@ -33,6 +33,7 @@ h1, h2, p {
 
 img {
   display: block;
+  Margin-top: -25px;
   margin-left: auto;
   margin-right: auto;
 }
